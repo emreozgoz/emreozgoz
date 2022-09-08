@@ -4,7 +4,7 @@ Hi 👋 My name is Emre ÖZGÖZ
 .Net Developer
 --------------
 
-* 🌍  I'm based in Isparta
+* 🌍  I'm based in Tekirdag
 * ✉️  You can contact me at [emreozgoz@gmail.com](mailto:emreozgoz@gmail.com)
 * 🧠  I'm learning ASP .Net & Python
 * ⚡  Baby Developer
