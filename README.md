@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A code writer</h3>
 
-- 📝 I regularly write articles on [https://mektebiendustri.com/index.php/author/emreozgoz/](Mekteb-i Endüstri)
+- 📝 I regularly write articles on [https://mektebiendustri.com/index.php/author/emreozgoz/]  -  Mekteb-i Endüstri
 
 - 📫 How to reach me **emreozgoz@gmail.com**
 
