@@ -2,7 +2,7 @@
 <h3 align="center">A coder</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreozgoz&label=Profile%20views&color=0e75b6&style=flat" alt="emreozgoz" /> </p>
 
-- 📝 I regularly write articles on [https://mektebiendustri.com/index.php/author/emreozgoz/]  -  Mekteb-i Endüstri
+- 📝 I regularly write articles on [[https://mektebiendustri.com/index.php/author/emreozgoz/] ](https://medium.com/@emreozgoz) - 
 
 - 📫 How to reach me **emreozgoz@gmail.com**
 
